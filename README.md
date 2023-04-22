@@ -1,4 +1,4 @@
-# Hello world
+# Hello
 
-如果这个模板有用，请点一个🌟吧！
+支持vscode和clion的cmake项目模板
 [Github Repo](https://github.com/Conscien/TemplateRepoCXX)
